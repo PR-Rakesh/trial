@@ -1,1 +1,2 @@
-This line is edited by me.
+Created a Empty file for merge conflict practices.
+
