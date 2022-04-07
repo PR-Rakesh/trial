@@ -1,2 +1,1 @@
-Created a Empty file for merge conflict practices.
-
+Created a Empty file for merge conflict practice.
